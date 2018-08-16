@@ -1,7 +1,2 @@
 ﻿we are family!
-<<<<<<< HEAD
-Do you know =====new !
-i know
-=======
-Do you know????
->>>>>>> fea
+Do you know?
